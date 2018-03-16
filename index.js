@@ -17,3 +17,7 @@ function logWhisper(string) {
 function logWhisper(string) {
   return "I can't hear you!"
 }
+
+function logWhisper(string) {
+  return "I can't hear you!"
+}
